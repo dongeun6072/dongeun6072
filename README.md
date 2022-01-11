@@ -6,3 +6,7 @@
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dongeun6072)](https://solved.ac/dongeun6072)
 
+# 💪Skills
+### Languages
+
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>   <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>   <img alt="Kotiln" src ="https://img.shields.io/badge/Kotlin-007396.svg?&style=for-the-badge&logo=Kotlin&logoColor=white"/>
