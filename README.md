@@ -1,6 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Dongeun%20Lee&fontSize=70)
+# 😉LeeDongEun
 
-</br>
 </br>
 
 
